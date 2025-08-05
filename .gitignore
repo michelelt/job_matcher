@@ -1,0 +1,13 @@
+chroma_db/*
+venv/*
+__pycache__/*
+
+*.pyc
+*.png 
+*.docx
+*.jpg
+*.webp 
+*.gif 
+*.ini 
+*.jpeg
+*.csv
